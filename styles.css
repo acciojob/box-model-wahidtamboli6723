@@ -4,6 +4,7 @@
 	width:200px;
 	height:100px;
 	border-radius:20%;
+	background-color:rgb(241, 241, 241);
 }
 .container>div{
     margin: 16px 35px;

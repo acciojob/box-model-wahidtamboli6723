@@ -1,11 +1,11 @@
 /*  your css code here. If applicable */
-#container{
+.container{
 	border:5px solid black;
 	width:200px;
 	height:100px;
 	border-radius:20%;
 }
-#container>div{
+.container>div{
     margin: 16px 35px;
     
    
@@ -19,9 +19,9 @@
     
 }
 
-#container>div p:nth-child(1)
+.container>div p:nth-child(1)
 {background-color: green;}
-#container>div p:nth-child(2)
+.container>div p:nth-child(2)
 {background-color: yellow;}
-#container>div p:nth-child(3)
+.container>div p:nth-child(3)
 {background-color: red;}

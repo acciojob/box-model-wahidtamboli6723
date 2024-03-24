@@ -25,4 +25,4 @@
 .container>div p:nth-child(2)
 {background-color: yellow;}
 .container>div p:nth-child(3)
-{background-color: red;}
+{background-color: red; }
